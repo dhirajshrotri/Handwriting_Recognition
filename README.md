@@ -3,6 +3,7 @@
 Code for recognizing digits using the MNIST database and a forward feed network.
 
 Usage:
+
 First we have to load the MNIST data. To do that we have a small helper program called mnist_loader.
 We execute the following commands in a Python shell,
 ```
